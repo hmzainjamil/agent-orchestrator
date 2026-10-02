@@ -2,6 +2,8 @@
 
 *Compiled February 2026 via competitive analysis, Playwright CSS extraction, and codebase audit.*
 
+> Historical research snapshot. It records recommendations and implementation observations from February 2026; it is not the current UI specification. Verify the live `packages/web/` source before relying on claims about current UI or adopting a recommendation.
+
 ---
 
 ## Documents
